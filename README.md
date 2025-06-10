@@ -23,8 +23,8 @@ This project converts an input image into a unique musical composition using Pyt
 
 ## 📁 File Structure
 
-- `image_to_music.ipynb`: Main notebook containing the complete logic.
-- `sample_image.jpg`: An example image you can test the program with (you can use your own).
+- `image_to_music.py`: Main file containing the complete logic.
+- `download.jpg`: An example image you can test the program with (you can use your own).
 - `output.mp3`: Audio output (can be generated during runtime).
 - `requirements.txt`: List of dependencies.
 
