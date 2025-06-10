@@ -25,7 +25,7 @@ This project converts an input image into a unique musical composition using Pyt
 
 - `image_to_music.py`: Main file containing the complete logic.
 - `download.jpg`: An example image you can test the program with (you can use your own).
-- `output.mp3`: Audio output (can be generated during runtime).
+- `output_music.mp3`: Audio output (can be generated during runtime).
 - `requirements.txt`: List of dependencies.
 
 
